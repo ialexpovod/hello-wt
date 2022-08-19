@@ -1,1 +1,1 @@
-echo # Hello on Wt C++
+# Hello on Wt C++
